@@ -1,0 +1,15 @@
+{
+  "name": "genpark-actor-critic-entropy-exploration-skill",
+  "version": "1.0.0",
+  "description": "Entropy-regularized Soft Actor-Critic (SAC) exploration engine balancing expected return and policy entropy to prevent early convergence.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "sac",
+    "soft-actor-critic",
+    "entropy-regularization",
+    "policy-exploration"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
